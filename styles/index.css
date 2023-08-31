@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.body{
+    background-color: #9EF7C0!important;
+}
+
+/* *****navbar********* */
+.navbar{
+  font-size: 25px;
+  line-height: 50px;
+  padding: 10px;
+  
+  background-color:#76847c!important;
+  
+}
+.container-fluid a{
+    color: white!important;
+}
+.header li a{
+    color: white;
+}
+.nav-item{
+    padding: 1px;
+}
+.container-fluid a{
+    font-size: 25px;
+}
+
+/* *********sliders********* */
+
+.carousel-item img{
+    height: 400px!important;
+}

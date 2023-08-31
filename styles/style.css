@@ -1,0 +1,15 @@
+
+
+.form-container{
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    
+    flex-direction: column ;
+    display: flex;
+}
+
+.form-container form{
+    padding: 15px;
+    background-color: red;
+}

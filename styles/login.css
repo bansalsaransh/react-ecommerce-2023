@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    
+}
+body{
+background-image: linear-gradient(to right, rgba(121, 126, 130, 0.6), rgba(75, 76, 78, 0.6)),url('../imagez/slider3.jpg');
+background-color: grey;
+opacity: 2;
+background-size: cover;
+
+}
+.login{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 200px;
+    color: white;
+   
+   
+}
+
+.form-container{
+    border: 1px solid black;
+    padding: 50px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
